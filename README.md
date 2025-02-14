@@ -14,5 +14,3 @@ Bu repo, hisse senetlerinin **zaman serisi verilerini kullanarak sektör sınıf
 3. **Modeli Eğitin veya Kaydedilmiş Modeli Yükleyin**  
 4. **Yeni Bir Hisse Senedi İçin Tahmin Yapın**  
 5. **Sektörel Benzerlik Analizi Gerçekleştirin**  
-
-💡 **Bu proje, yatırım stratejileri geliştirmek veya finansal analiz süreçlerini desteklemek için kullanılabilir.**
