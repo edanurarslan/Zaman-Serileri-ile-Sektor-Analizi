@@ -1,5 +1,4 @@
-TR :
-## 📌 **Repo Açıklaması**  
+TR : 
 Bu repo, hisse senetlerinin **zaman serisi verilerini kullanarak sektör sınıflandırmasını** yapmak için geliştirilen bir makine öğrenmesi modelini içermektedir. Projede, hisse senetlerinin geçmiş **fiyat ve işlem verileri** işlenmiş, **TSFresh** ile zaman serisi özellikleri çıkarılmış ve **XGBoost** gibi güçlü algoritmalar kullanılarak sektörel benzerlik analizi gerçekleştirilmiştir.
 
 ### 📌 **Proje İçeriği**  
@@ -19,7 +18,6 @@ Bu repo, hisse senetlerinin **zaman serisi verilerini kullanarak sektör sınıf
 -------
 
 ENG :
-### 📌 **Repository Description**  
 This repository contains a machine learning model developed for **sector classification** of stocks using time series data. The project processes historical stock price and trading data, extracts time series features using **TSFresh**, and applies powerful algorithms like **XGBoost** for sector similarity analysis.
 
 ### 📌 **Project Overview**  
